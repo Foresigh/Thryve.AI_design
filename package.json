@@ -1,0 +1,7 @@
+{
+  "name": "thryve-ai-design",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "npx serve . -l ${PORT:-3000}"
+  }
+}
